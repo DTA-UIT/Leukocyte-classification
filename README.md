@@ -1,5 +1,8 @@
-# Using convolutional neural network for predicting diseases via leukocyte classification 
-
+<div align='center'>
+  
+# Predicting diseases via leukocyte classification 
+</div>
+  
 ## Dataset 
 
 The [LISC - *Leukocyte Images for Segmentation and Classification*](http://users.cecs.anu.edu.au/~hrezatofighi/Data/Leukocyte%20Data.htm) has been used for automatic identification and counting of blood cells
